@@ -29,6 +29,11 @@ This configuration only supports printing without wheels :(
 
 ![VW-Golf](VW_Golf/print.jpg)
 
+### Open Hardware logo
+
+[Model](https://www.thingiverse.com/thing:8760) | [Configuration](OpenHW/config.ini)
+
+![OpenHW](OpenHW/print.jpg)
 
 ## Downloading
 
