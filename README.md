@@ -2,6 +2,16 @@
 
 The following repository stores a set of configurations optimized for the DSP Informatik AG 3D Printer.
 
+## Contents
+
+- [Contents](#contents)
+- [Downloading](#downloading)
+- [Applying configuration files](#applying-configuration-files)
+- [General Configuration Files](#general-configuration-files)
+- [Model Configuration Files](#model-configuration-files)
+	- [VW-Golf](#vw-golf)
+	- [Open Hardware logo](#open-hardware-logo)
+
 ## Downloading
 
 To download the configuration files, you may download this repository as a ZIP from [here](https://github.com/DSP-Informatik-AG/Slic3r-Configs/archive/master.zip), or clone this repository using `git`
